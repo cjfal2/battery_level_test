@@ -1,4 +1,4 @@
-# battery_level_plus
+# battery_level_plus 패키지
 
 A new Flutter plugin project.
 

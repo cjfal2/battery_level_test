@@ -1,7 +1,7 @@
 name: battery_level_plus
 description: Flutter plugin for getting battery level on Android and iOS
 version: 0.0.1
-homepage:
+homepage: https://github.com/cjfal2/battery_level_test
 
 environment:
   sdk: ^3.6.2
