@@ -81,4 +81,4 @@ PR 또는 이슈 언제든 환영합니다!
 ## 🔗 링크
 
 - 🔗 [패키지 페이지 (pub.dev)](https://pub.dev/packages/battery_level_plus)
-- 🔗 [GitHub Repository](https://github.com/사용자명/battery_level_plus)
+- 🔗 [GitHub Repository]([https://github.com/사용자명/battery_level_plus](https://github.com/cjfal2/battery_level_test))
