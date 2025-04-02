@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:battery_level_plus/battery_level_plus.dart';
-import 'package:battery_level_plus/battery_level_plus_platform_interface.dart';
-import 'package:battery_level_plus/battery_level_plus_method_channel.dart';
+import 'package:battery_level_plus/src/battery_level_plus_platform_interface.dart';
+import 'package:battery_level_plus/src/battery_level_plus_method_channel.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
 class MockBatteryLevelPlusPlatform
